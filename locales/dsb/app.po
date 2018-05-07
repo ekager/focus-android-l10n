@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2018-04-26 14:07-0700\n"
+"POT-Creation-Date: 2018-05-07 14:11-0700\n"
 "PO-Revision-Date: 2018-04-22 17:01+0000\n"
 "Last-Translator: Michael Wolf <milupo@sorbzilla.de>\n"
 "Language: dsb\n"
@@ -208,6 +208,49 @@ msgstr ""
 "wótwórjonego interneta.<br/>\n"
 "<a href=\"%2$s\">Dalšne informacije</a></p>"
 
+#. Header for the Privacy and Security settings menu
+msgctxt "preference_privacy_and_security_header"
+msgid "Privacy & Security"
+msgstr ""
+
+#. Preference category for settings related to ad blocking and tracking
+#. protection
+msgctxt "preference_category_ad_blocking_tracking_protection"
+msgid "Tracking protection, block web contents"
+msgstr ""
+
+#. Preference description of the Privacy and Security Menu
+msgctxt "preference_privacy_and_security_description"
+msgid ""
+"Enable these options to remove ads, make web pages load faster, extend "
+"battery life, and save data"
+msgstr ""
+
+#. Preference category for ad blocking and tracking protection settings
+msgctxt "preference_category_ad_blocking_and_tracking_protection"
+msgid "Ad Blocking & Tracking Protection"
+msgstr ""
+
+#. Preference category for settings related to controlling web content
+msgctxt "preference_category_web_content"
+msgid "Web Content"
+msgstr ""
+
+#. Preference category: stealth settings for while switching apps
+msgctxt "preference_category_switching_apps"
+msgid "Switching Apps"
+msgstr ""
+
+#. Preference category for General Settings
+msgctxt "preference_category_general"
+msgid "General"
+msgstr ""
+
+#. Preference category for settings about sending usage data
+msgctxt "preference_category_data_collection_use"
+msgid "Data Collection & Use"
+msgstr ""
+
 msgctxt "preference_category_search"
 msgid "Search"
 msgstr "Pytaś"
@@ -306,6 +349,11 @@ msgstr "Adresu zasajźiś abo zapódaś"
 
 #. Example how a custom domain autocomplete URL be added (e.g. without
 #. http://)
+msgctxt "preference_autocomplete_add_example2"
+msgid "Example: mozilla.org"
+msgstr ""
+
+#. To be removed once the new hint has been translated
 msgctxt "preference_autocomplete_add_example"
 msgid "Example: example.com"
 msgstr "Pśikład: example.com"
